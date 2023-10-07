@@ -1,7 +1,7 @@
-Name: template-specfile
+Name: template-release
 Version: 0.1
 Release: 1.foo
-Summary: This is an example specfile
+Summary: This is an example release specfile
 License: GMK License v0.1
 URL: http://www.template-specfile.org
 Source0: template-release
