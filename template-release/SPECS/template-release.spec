@@ -7,6 +7,7 @@ URL: http://www.template-specfile.org
 Source0: template-release
 Source1: testfile
 BuildRequires: bash
+BuildArch: noarch
 Requires: bash
 
 
